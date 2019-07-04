@@ -9,3 +9,5 @@ This is a rough guide to using the Firefox Developer Tools to make a background 
 5 - Use the Responsive Design Mode to make sure the image is the right size for you screen.    
 6 - Use the Box Model in the Layout Pane to resize the image.     
 7 - When you are happy with the finished wallpaper, use the Screenshot function in the Responsive Design Mode to save the image.
+
+If you see any of your intellectual property here and wish it to be removed, it is no problem at all.  Just submit an issue clearly stating the filename and I will remove the image and any Firefox theme I have created from it.
